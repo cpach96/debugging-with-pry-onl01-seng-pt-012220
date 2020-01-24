@@ -1,4 +1,4 @@
-def plus_two(num)
-	4 + num
+def plus_two(3)
+	num + 2
 	binding.pry
 end
